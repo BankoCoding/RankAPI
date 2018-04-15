@@ -1,0 +1,11 @@
+name: RankAPI
+version: 1.0
+main: de.Banko.RankAPI.Main
+author: Banko
+
+commands:
+  rank:
+    aliases: [rang, perm]
+  coins:
+  buycraftRank:
+  buycraftCoins:
